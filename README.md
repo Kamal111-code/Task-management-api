@@ -10,7 +10,7 @@ This project demonstrates basic CRUD operations and Spring Boot fundamentals.
 - Delete tasks
 
 ## Tech Stack
-- Java 17
+- Java 21
 - Spring Boot
 - Maven
 
